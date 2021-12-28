@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    padding: 10px;
+    border-bottom: grey solid 2px;
+}
+
+.link-header{
+    text-decoration: none;
+    color: grey;
+    font-size: 15px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    justify-content: center;
+    border-bottom: solid 1px grey;
+}
+
+.link-nav{
+    text-decoration: none;
+    color: grey;
+    font-size: 10px;
+    margin: 10px
+}
+
+h1{
+    font-size: 55px;
+}
+
+p{
+    font-family: 35px;
+}
+
+.img{
+    width: 100%
+}
+
+.social{
+    float: left;
+    margin: 15px
+}
